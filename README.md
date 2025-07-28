@@ -11,6 +11,9 @@ WORK_FLOW
 The AI Agent uses 3 separate tools; Lead Recon, Company Recon, and a Pre-sales Report Generator. The Lead Recon tool takes in the prospective client's url and the Company Recon tool takes in the 
 company's website url. The output of both tools is used by the Pre-sales Report Generator Tool to generate the final pre-sales report of tailor blueprint on how to close the particular Lead.
 
+TEMPLATE:
+https://app.relevanceai.com/agents/d7b62b/b0daed2b-8c47-4b3b-af4e-1d74480850db/7292073a-5d96-4fb7-9584-949060f07315/clone
+
 
 Try it out here; 
 https://app.relevanceai.com/agents/d7b62b/b0daed2b-8c47-4b3b-af4e-1d74480850db/7292073a-5d96-4fb7-9584-949060f07315/embed-chat?hide_tool_steps=false&hide_file_uploads=false&hide_conversation_list=false&bubble_style=agent&primary_color=%23685FFF&bubble_icon=pd%2Fchat&input_placeholder_text=Type+your+message...&hide_logo=false&hide_description=false
