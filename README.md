@@ -1,4 +1,4 @@
-# h_sales_copilot built using RelevanceAI
+# h_sales_copilot built using RelevanceAI (Converstational Agent)
 Integrations: Fire Crawl (web scraper), OpenAI GPT Models, LinkedIn Data Extraction, Custom Tools
 
 WHAT_IT_DOES
