@@ -2,10 +2,12 @@
 Integrations: Fire Crawl (web scraper), OpenAI GPT Models, LinkedIn Data Extraction, Custom Tools
 
 WHAT_IT_DOES
+
 Takes in a prospective client's linkedin profile url, and their company's url, and scrapes data. Then, it summarises this data, and outputs a pre-call sales report that helps the agent acquire the client.
 Typical information includes potential selling points, possible objections and how to handle them.
 
 WORK_FLOW
+
 The AI Agent uses 3 separate tools; Lead Recon, Company Recon, and a Pre-sales Report Generator. The Lead Recon tool takes in the prospective client's url and the Company Recon tool takes in the 
 company's website url. The output of both tools is used by the Pre-sales Report Generator Tool to generate the final pre-sales report of tailor blueprint on how to close the particular Lead.
 
